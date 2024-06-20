@@ -3,7 +3,8 @@
 
 ## 勉強していきたい内容（随時追加）
 
-- React
 - SQL(復習)
 - pythonの復習とライブラリの学習（Django, numpy, pandas, matplotlib, scikit-learn, etc...）
 - JAVA
+- React
+- AWS（資格取得勉強）
