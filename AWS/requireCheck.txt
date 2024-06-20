@@ -1,0 +1,20 @@
+Elastic Load Balancing
+
+https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban
+
+ロードバランシングについて。リージョンごとに有効。これまであまり触れていなかったので読み直しておくこと。
+
+メッセージングとキューイング
+
+https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban
+
+Amazon SQSについて見返しておくこと、Amazon SNSの方は使用していたことがある。
+SQSでバッファを加えてサーバーに余裕を持たせることができる。
+これまではユーザーやサーバー負荷が少ないことが多かったためSNSでよかったが大規模なシステムの場合やバックエンドの処理が律速の場合使用を考えるとよさそう。
+
+Kubernetesの解説
+
+https://qiita.com/MahoTakara/items/85096f8b2632c802ab22
+
+Dockerしか使用してこなかったので出来ることを覚えたりAmazon EKSを使えるようになっておきたい。
+
