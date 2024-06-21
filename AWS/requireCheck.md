@@ -20,11 +20,17 @@
 | --- | --- | --- |
 | Kubernetesの基本 | [Qiita - Kubernetesの解説](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22) | Dockerしか使用してこなかったので、Kubernetesの基礎とAmazon EKSの活用方法を学ぶため。 |
 
+##### エッジロケーション
+
+| 項目 | URL | 復習理由 |
+| --- | https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban | 地理インフラについて復習しておくこと |
+|  | []() |  |
+
 <!--
 ##### テンプレート
 
 | 項目 | URL | 復習理由 |
 | --- | --- | --- |
-|  | []() |  |
+| --- | [---](---) | --- |
 -->
 
