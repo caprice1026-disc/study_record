@@ -6,7 +6,10 @@
 | Kubernetesの基本 | [Qiita - Kubernetesの解説](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22) | Dockerしか使用してこなかったので、Kubernetesの基礎とAmazon EKSの活用方法を学ぶため。 |
 | エッジロケーション | [AWS Cloud Practitioner Essentials (日本語) - Edge Locations](https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban) | 地理インフラについて復習しておくこと。 |
 | AWS Elastic BeanstalkおよびAWS CloudFormation | | これまで自身で何度も自身で同じインスタンスを立ち上げていたのでこれを学習して効率化すること。 |
-
+| Pythonのデベロッパーツール | [Python SDK](https://aws.amazon.com/jp/developer/tools/) | 基本は問題ないはずだが顧客に迷惑をかけないように復習しておくこと |
+| 項目1 | [リンク1](#) | このトピックを復習する理由を記入します。 |
+| 項目2 | [リンク2](#) | このトピックを復習する理由を記入します。 |
+| 項目3 | [リンク3](#) | このトピックを復習する理由を記入します。 |
 
 <!-- テンプレート
 ##### 新しい学習項目のタイトル
