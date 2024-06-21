@@ -13,10 +13,18 @@
 | 項目 | URL | 復習理由 |
 | --- | --- | --- |
 | Amazon SQS | [AWS Cloud Practitioner Essentials (日本語) - Amazon SQS](https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban) | SQSでバッファを加えてサーバーに余裕を持たせる方法を学ぶため。 |
-| Amazon SNS | [AWS Cloud Practitioner Essentials (日本語) - Amazon SNS](https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban) | SNSを既に使用しているが、SQSとの比較と使い分けを理解するため。 |
 
 ##### Kubernetesの解説
 
 | 項目 | URL | 復習理由 |
 | --- | --- | --- |
 | Kubernetesの基本 | [Qiita - Kubernetesの解説](https://qiita.com/MahoTakara/items/85096f8b2632c802ab22) | Dockerしか使用してこなかったので、Kubernetesの基礎とAmazon EKSの活用方法を学ぶため。 |
+
+<!--
+##### テンプレート
+
+| 項目 | URL | 復習理由 |
+| --- | --- | --- |
+|  | []() |  |
+-->
+
