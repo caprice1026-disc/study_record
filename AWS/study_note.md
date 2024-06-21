@@ -1,4 +1,8 @@
-# ネットワーク ACL とセキュリティグループの違い
+# AWS学習ノート
+
+AWSで覚えておかないといけないと思ったことをまとめています。自身のアウトプットをChatGPTに渡して理解度を確認した後mdファイル形式にまとめてもらっています。
+
+## ネットワーク ACL とセキュリティグループの違い
 
 ## ネットワーク ACL (Access Control List)
 
@@ -64,4 +68,4 @@
 
 - [AWS Security Group vs Network ACL](https://aws.amazon.com/premiumsupport/knowledge-center/security-groups-vs-acls/)
 
-```
+
